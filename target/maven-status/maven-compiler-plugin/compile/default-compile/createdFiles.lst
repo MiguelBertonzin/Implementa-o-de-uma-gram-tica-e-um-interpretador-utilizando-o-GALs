@@ -1,0 +1,12 @@
+com\trabalho\trabalhom2\TrabalhoM2.class
+GALs\ParserConstants.class
+GALs\LexicalError.class
+GALs\Token.class
+GALs\SemanticError.class
+GALs\ScannerConstants.class
+GALs\Sintatico.class
+GALs\AnalysisError.class
+GALs\Constants.class
+GALs\SyntaticError.class
+GALs\Semantico.class
+GALs\Lexico.class
